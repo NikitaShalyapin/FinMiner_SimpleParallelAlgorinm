@@ -1,0 +1,1 @@
+# FinMiner_SimpleParallelAlgorinm
